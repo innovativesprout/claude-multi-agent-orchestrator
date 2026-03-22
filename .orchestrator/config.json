@@ -1,0 +1,14 @@
+{
+  "name": "laravel-angular-saas-feature-orchestrator",
+  "mode": "plan-first",
+  "agents": ["planner", "backend", "frontend", "saas", "qa", "docs"],
+  "rules": {
+    "require_plan_before_implementation": true,
+    "allow_unnecessary_tool_usage": false,
+    "preserve_existing_auth_logic": true,
+    "preserve_existing_saas_logic": true,
+    "prefer_incremental_changes": true,
+    "require_documentation_update": true,
+    "require_qa_checklist": true
+  }
+}

@@ -1,0 +1,8 @@
+Title: Public Pages Redesign
+
+Redesign and enhance the UI/UX of the registration, login, and landing pages.
+
+Requirements:
+- Registration page should be clean, elegant, and professional
+- Login page should match the registration design system
+- Landing page should be compact, modern, and conversion-focused
